@@ -9,6 +9,7 @@
 #include <malloc.h>
 #include <fstream>
 
+//hellow? it's me
 struct Odnosv {
     std::string elem;
     struct Odnosv *next;
